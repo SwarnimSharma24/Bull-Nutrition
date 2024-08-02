@@ -1,0 +1,47 @@
+.header {
+    background-color: rgb(219, 21, 21);
+    color: white;
+    padding: 20px 0;
+}
+.header:hover{
+    background-color: black;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.nav-links ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-links ul li {
+    margin: 0 10px;
+}
+
+.whishlist{
+    margin-left: 15%;
+}
+
+.nav-links{
+    margin-left: 10%;
+    cursor: pointer;
+}
+.nav-links b:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(219, 21, 21);
+    color: rgb(219, 21, 21);
+}
+.icons :hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(219, 21, 21);
+    color: rgb(219, 21, 21);
+}

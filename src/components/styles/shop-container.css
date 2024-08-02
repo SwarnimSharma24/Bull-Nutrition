@@ -1,0 +1,11 @@
+.shop-container{
+    color: black;
+    width: 12%;
+    border: 3px solid rgb(219, 21, 21);
+}
+.shop-container :hover{
+    color: rgb(219, 21, 21) ;
+}
+
+
+/* rgb(219, 21, 21) */
